@@ -9,7 +9,7 @@ Ce projet est un calculateur d'empreinte carbone simple, développé en PHP, qui
 * **Interface d'administration :** Les administrateurs peuvent visualiser, modifier et supprimer les données des utilisateurs.
 * **Base de données MySQL :** Les données des utilisateurs sont stockées dans une base de données MySQL.
 
-##  Structure du Projet
+## 🏗️ Structure du Projet
 
 * `admin.php` : Interface d'administration pour gérer les utilisateurs.
 * `db.php` : Script de connexion à la base de données MySQL.
@@ -73,7 +73,7 @@ Ce projet est un calculateur d'empreinte carbone simple, développé en PHP, qui
 
     * Ouvrez votre navigateur web et accédez à l'URL de votre serveur web.
 
-## ‍ Utilisation
+## ‍ 🔨 Utilisation
 
 * **Formulaire d'estimation :** Remplissez le formulaire sur `index.php` et cliquez sur "Calculer mon empreinte carbone".
 * **Résultats :** Les résultats s'affichent sur `resultat.php`.
